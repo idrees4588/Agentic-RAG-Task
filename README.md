@@ -2,6 +2,11 @@
 
 An AI-powered assistant for navigating and analyzing scientific literature using Retrieval-Augmented Generation (RAG). This system helps researchers, students, and academics quickly find relevant methods, results, and evidence across large sets of scientific papers.
 
+<img width="1721" height="877" alt="image" src="https://github.com/user-attachments/assets/8a8bb412-4535-4677-b6f5-990a4fc3cf03" />
+<img width="860" height="439" alt="image" src="https://github.com/user-attachments/assets/659156d7-979a-4f96-afd8-9e016cb639cd" />
+
+
+
 ## 🚀 Key Features
 
 ### Core Capabilities
@@ -212,5 +217,6 @@ MIT License - see LICENSE file for details
 ---
 
 **Built with**: LangChain, ChromaDB, Sentence Transformers, Streamlit, and OpenAI
+
 
 **Research Areas**: Information Retrieval, Natural Language Processing, Scientific Literature Analysis
